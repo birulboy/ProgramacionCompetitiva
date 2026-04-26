@@ -1,0 +1,18 @@
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Objetos y librerías
+*.o
+*.obj
+*.a
+*.lib
+
+# Directorios de compilación y temporales de VS Code / Visual Studio
+.vscode/
+.vs/
+Debug/
+Release/
+x64/
+x86/
